@@ -1,0 +1,862 @@
+{
+    "continents": [
+      {
+        "zoom_desktop": "3.5",
+        "uid": "europe",
+        "bounds": {
+          "bound2": {
+            "lat": 35.86932934927964,
+            "lng": 67.96570327991337
+          },
+          "bound1": {
+            "lat": 65.29951609245272,
+            "lng": -13.991917520541376
+          }
+        },
+        "regions": [
+          {
+            "name_ptbr": "Península Ibérica",
+            "uid": null,
+            "populations": [
+              {
+                "name_ptbr": "Portugal e Espanha",
+                "uid": "portuguese-spanish",
+                "group": "portuguese-spanish",
+                "center": {
+                  "lat": 40.004898,
+                  "lng": -3.021053
+                },
+                "continent": "europe",
+                "url_prismic": "portuguese-spanish",
+                "region": "iberian",
+                "image": "ameba-portugal-espanha.png",
+                "proportion": 0.1576844824988594,
+                "name": "portuguese-spanish",
+                "zoom_desktop": 5,
+                "bounds": {
+                  "bound1": {
+                    "lat": 44.070981,
+                    "lng": -10.053530
+                  },
+                  "bound2": {
+                    "lat": 35.563869,
+                    "lng": 4.589931
+                  }
+                },
+                "zoom_mobile": 3.3
+              }
+            ],
+            "center": {
+              "lat": 40.004898,
+              "lng": -3.021053
+            },
+            "continent": "europe",
+            "url_prismic": "iberianregion",
+            "image": "amebareg-peninsula-iberica.png",
+            "proportion": 0.1576844824988594,
+            "name": "iberianregion",
+            "zoom_desktop": 5,
+            "bounds": {
+              "bound1": {
+                "lng": -10.053530,
+                "lat": 44.070981
+              },
+              "bound2": {
+                "lat": 35.563869,
+                "lng": 4.589931
+              }
+            },
+            "zoom_mobile": 3.3
+          },
+          {
+            "name_ptbr": "Leste da Europa",
+            "uid": null,
+            "populations": [
+              {
+                "zoom_mobile": 3.3,
+                "name_ptbr": "Bulgária",
+                "uid": "bulgarian",
+                "group": "bulgarian",
+                "center": {
+                  "lat": 44.481955,
+                  "lng": 21.829527
+                },
+                "continent": "europe",
+                "url_prismic": "bulgarian",
+                "region": "bulgarian",
+                "image": "ameba-bulgaria.png",
+                "proportion": 0.04778446799276288,
+                "name": "bulgarian",
+                "zoom_desktop": 5,
+                "bounds": {
+                  "bound2": {
+                    "lat": 39.778711,
+                    "lng": 30.848302
+                  },
+                  "bound1": {
+                    "lat": 48.599420,
+                    "lng": 13.011169
+                  }
+                }
+              },
+              {
+                "uid": "hungarian",
+                "group": "hungarian",
+                "center": {
+                  "lat": 47.505442,
+                  "lng": 16.240223
+                },
+                "continent": "europe",
+                "url_prismic": "hungarian",
+                "region": "hungarian",
+                "image": "ameba-hungria.png",
+                "proportion": 0.042266913364657814,
+                "name": "hungarian",
+                "zoom_desktop": 5,
+                "bounds": {
+                  "bound2": {
+                    "lat": 45.472695,
+                    "lng": 24.027362
+                  },
+                  "bound1": {
+                    "lat": 49.676839,
+                    "lng": 9.330989
+                  }
+                },
+                "zoom_mobile": 3.3,
+                "name_ptbr": "Hungria"
+              },
+              {
+                "zoom_desktop": 3.5,
+                "bounds": {
+                  "bound2": {
+                    "lat": 39.348290,
+                    "lng": 68.233957
+                  },
+                  "bound1": {
+                    "lat": 71.087457,
+                    "lng": 20.244446
+                  }
+                },
+                "zoom_mobile": 1.8,
+                "name_ptbr": "Rússia",
+                "uid": "russian",
+                "group": "russian",
+                "center": {
+                  "lat": 57.604853,
+                  "lng": 40.854995
+                },
+                "continent": "europe",
+                "url_prismic": "russian",
+                "region": "russian",
+                "image": "ameba-russia.png",
+                "proportion": 0.022371501303226866,
+                "name": "russian"
+              }
+            ],
+            "center": {
+              "lat": 54.646116,
+              "lng": 39.096562
+            },
+            "continent": "europe",
+            "url_prismic": "east-europe",
+            "image": "amebareg-leste-da-europa.png",
+            "proportion": 0.11242288266064757,
+            "name": "east-europe",
+            "zoom_desktop": 3,
+            "bounds": {
+              "bound2": {
+                "lat": 39.778711,
+                "lng": 68.233957
+              },
+              "bound1": {
+                "lat": 71.087457,
+                "lng": 9.330989
+              }
+            },
+            "zoom_mobile": 1.3
+          },
+          {
+            "zoom_mobile": 2.8,
+            "name_ptbr": "Centro-Oeste da Europa",
+            "uid": null,
+            "populations": [
+              {
+                "zoom_mobile": 3.3,
+                "name_ptbr": "França",
+                "uid": "french",
+                "group": "french",
+                "center": {
+                  "lat": 46.991523,
+                  "lng": 3.075373
+                },
+                "continent": "europe",
+                "url_prismic": "french",
+                "region": "french",
+                "image": "ameba-franca.png",
+                "proportion": 0.09282272974880278,
+                "name": "french",
+                "zoom_desktop": 5,
+                "bounds": {
+                  "bound2": {
+                    "lat": 41.751601,
+                    "lng": 9.489408
+                  },
+                  "bound1": {
+                    "lat": 51.665724,
+                    "lng": -5.476674
+                  }
+                }
+              }
+            ],
+            "center": {
+              "lat": 48.928271,
+              "lng": 7.377442
+            },
+            "continent": "europe",
+            "url_prismic": "central-west-europe",
+            "image": "reg-centro-oeste-europa.png",
+            "proportion": 0.09282272974880278,
+            "name": "central-west-europe",
+            "zoom_desktop": 4.5,
+            "bounds": {
+              "bound2": {
+                "lat": 41.588664,
+                "lng": 18.175546
+              },
+              "bound1": {
+                "lat": 55.481498,
+                "lng": -5.690553
+              }
+            }
+          },
+          {
+            "uid": null,
+            "populations": [
+              {
+                "zoom_mobile": 4.3,
+                "name_ptbr": "Sardenha",
+                "uid": "sardinian",
+                "group": "sardinian",
+                "center": {
+                  "lat": 39.987960,
+                  "lng": 9.037554
+                },
+                "continent": "europe",
+                "url_prismic": "sardinian",
+                "region": "sardinian",
+                "image": "ameba-malta.png",
+                "proportion": 0.09122859022388616,
+                "name": "sardinian",
+                "zoom_desktop": 6,
+                "bounds": {
+                  "bound2": {
+                    "lat": 38.55918125004041,
+                    "lng": 10.626724362373354
+                  },
+                  "bound1": {
+                    "lat": 41.53030232332319,
+                    "lng": 7.455696165561677
+                  }
+                }
+              }
+            ],
+            "center": {
+              "lat": 42.371829,
+              "lng": 14.221063
+            },
+            "continent": "europe",
+            "url_prismic": "southeast-europe",
+            "image": "amebareg-sudeste-europa.png",
+            "proportion": 0.09122859022388616,
+            "name": "southeast-europe",
+            "zoom_desktop": 5,
+            "bounds": {
+              "bound2": {
+                "lat": 32.91648534731439,
+                "lng": 35.51879882812501
+              },
+              "bound1": {
+                "lat": 47.724544549099676,
+                "lng": 5.679931640625001
+              }
+            },
+            "zoom_mobile": 3.3,
+            "name_ptbr": "Sudeste da Europa"
+          },
+          {
+            "name_ptbr": "Cáucaso",
+            "uid": null,
+            "populations": [
+              {
+                "bounds": {
+                  "bound2": {
+                    "lng": 47.588873,
+                    "lat": 42.361465
+                  },
+                  "bound1": {
+                    "lat": 44.083114,
+                    "lng": 44.582630
+                  }
+                },
+                "zoom_mobile": 3.3,
+                "name_ptbr": "Chechênia",
+                "uid": "chechen",
+                "group": "chechen",
+                "center": {
+                  "lat": 43.252081,
+                  "lng": 45.800446
+                },
+                "continent": "europe",
+                "url_prismic": "chechen",
+                "region": "chechen",
+                "image": "ameba-chechenia.png",
+                "proportion": 0.08549048772868947,
+                "name": "chechen",
+                "zoom_desktop": 5
+              }
+            ],
+            "center": {
+              "lat": 39.245634,
+              "lng": 38.518342
+            },
+            "continent": "europe",
+            "url_prismic": "caucasus",
+            "image": "amebareg-caucaso.png",
+            "proportion": 0.08549048772868947,
+            "name": "caucasus",
+            "zoom_desktop": 4,
+            "bounds": {
+              "bound2": {
+                "lat": 35.573980,
+                "lng": 52.262540
+              },
+              "bound1": {
+                "lat": 45.13469132109979,
+                "lng": 23.993741945958867
+              }
+            },
+            "zoom_mobile": 2.3
+          },
+          {
+            "proportion": 0.03512858625613987,
+            "name": "north-europe",
+            "zoom_desktop": 4,
+            "bounds": {
+              "bound2": {
+                "lat": 53.256474,
+                "lng": 34.442953
+              },
+              "bound1": {
+                "lat": 71.435312,
+                "lng": 3.398997
+              }
+            },
+            "zoom_mobile": 2.3,
+            "name_ptbr": "Norte da Europa",
+            "uid": null,
+            "populations": [
+              {
+                "image": "ameba-finlandia.png",
+                "proportion": 0.03512858625613987,
+                "name": "finnish",
+                "zoom_desktop": 4,
+                "bounds": {
+                  "bound1": {
+                    "lat": 70.273440,
+                    "lng": 19.350122
+                  },
+                  "bound2": {
+                    "lat": 59.551074,
+                    "lng": 32.855803
+                  }
+                },
+                "zoom_mobile": 2.3,
+                "name_ptbr": "Finlândia",
+                "uid": "finnish",
+                "group": "finnish",
+                "center": {
+                  "lat": 64.732308,
+                  "lng": 26.976175
+                },
+                "continent": "europe",
+                "url_prismic": "finnish",
+                "region": "finnish"
+              }
+            ],
+            "center": {
+              "lat": 65.063530,
+              "lng": 20.638399
+            },
+            "continent": "europe",
+            "url_prismic": "north-europe",
+            "image": "amebareg-norte-europa.png"
+          }
+        ],
+        "center": {
+          "lat": 57.922426,
+          "lng": 25.634218
+        },
+        "zoom_mobile": "1.8",
+        "color": "#ff4b9c",
+        "proportion": 0.5747777591170253,
+        "name": "europe",
+        "name_ptbr": "Europa"
+      },
+      {
+        "proportion": 0.3542026647641899,
+        "name": "africa",
+        "name_ptbr": "África",
+        "zoom_desktop": "2",
+        "uid": "africa",
+        "bounds": {
+          "bound2": {
+            "lat": -34.29208764194399,
+            "lng": 60.124000310897834
+          },
+          "bound1": {
+            "lat": 47.47301096681378,
+            "lng": -30.631041526794437
+          }
+        },
+        "regions": [
+          {
+            "image": "amebareg-oeste-africa.png",
+            "proportion": 0.18808446003208784,
+            "name": "west-africa",
+            "zoom_desktop": 4,
+            "bounds": {
+              "bound2": {
+                "lat": -21.292771320497206,
+                "lng": 26.891900032599683
+              },
+              "bound1": {
+                "lat": 18.82093562083889,
+                "lng": -19.082659932438588
+              }
+            },
+            "zoom_mobile": 2.3,
+            "name_ptbr": "Oeste da África",
+            "uid": null,
+            "populations": [
+              {
+                "region": "nigeria",
+                "image": "ameba-nigeria.png",
+                "proportion": 0.13713829558009483,
+                "name": "nigeria",
+                "zoom_desktop": 5,
+                "bounds": {
+                  "bound2": {
+                    "lat": 3.2534340805239905,
+                    "lng": 15.172459781169893
+                  },
+                  "bound1": {
+                    "lat": 14.947906293367788,
+                    "lng": 2.340428531169892
+                  }
+                },
+                "zoom_mobile": 3.3,
+                "name_ptbr": "Nigéria",
+                "uid": "nigeria",
+                "group": "nigeria",
+                "center": {
+                  "lat": 8.544358,
+                  "lng": 10.612809
+                },
+                "continent": "africa",
+                "url_prismic": "nigeria"
+              },
+              {
+                "name_ptbr": "Gâmbia",
+                "uid": "gambia",
+                "group": "gambia",
+                "center": {
+                  "lat": 9.895574,
+                  "lng": -5.504379
+                },
+                "continent": "africa",
+                "url_prismic": "gambia",
+                "region": "gambia",
+                "image": "ameba-gambia.png",
+                "proportion": 0.0233582301438096,
+                "name": "gambia",
+                "zoom_desktop": 5.5,
+                "bounds": {
+                  "bound2": {
+                    "lat": 12.824900174221794,
+                    "lng": -12.945345425939246
+                  },
+                  "bound1": {
+                    "lat": 14.460635498921357,
+                    "lng": -17.84637410956835
+                  }
+                },
+                "zoom_mobile": 3.8
+              },
+              {
+                "name_ptbr": "Benim",
+                "uid": "benin",
+                "group": "benin",
+                "center": {
+                  "lat": 8.174792,
+                  "lng": 5.515153
+                },
+                "continent": "africa",
+                "url_prismic": "benin",
+                "region": "benin",
+                "image": "ameba-benin.png",
+                "proportion": 0.014478516708769871,
+                "name": "benin",
+                "zoom_desktop": 5.2,
+                "bounds": {
+                  "bound2": {
+                    "lat": 5.160271943735253,
+                    "lng": 4.176916231129346
+                  },
+                  "bound1": {
+                    "lat": 13.495430118855047,
+                    "lng": 0.2747413429172108
+                  }
+                },
+                "zoom_mobile": 3.5
+              },
+              {
+                "center": {
+                  "lng": 23.803222,
+                  "lat": -10.777431
+                },
+                "continent": "africa",
+                "url_prismic": "angola",
+                "region": "angola",
+                "image": "ameba-angola.png",
+                "proportion": 0.013109417599413576,
+                "name": "angola",
+                "zoom_desktop": 4.8,
+                "bounds": {
+                  "bound2": {
+                    "lat": -20.05593126519445,
+                    "lng": 25.367431640625004
+                  },
+                  "bound1": {
+                    "lat": -4.123234979828557,
+                    "lng": 9.2510461807251
+                  }
+                },
+                "zoom_mobile": 3.0999999999999996,
+                "name_ptbr": "Angola",
+                "uid": "angola",
+                "group": "angola"
+              }
+            ],
+            "center": {
+              "lat": 2.008687,
+              "lng": 11.059082
+            },
+            "continent": "africa",
+            "url_prismic": "west-africa"
+          },
+          {
+            "zoom_desktop": 4,
+            "bounds": {
+              "bound2": {
+                "lat": 18.441274,
+                "lng": 17.665633
+              },
+              "bound1": {
+                "lat": 38.140725,
+                "lng": -16.250383
+              }
+            },
+            "zoom_mobile": 2.3,
+            "name_ptbr": "Norte da África",
+            "uid": null,
+            "populations": [
+              {
+                "name_ptbr": "Norte da África",
+                "uid": "north-africa",
+                "group": "north-africa",
+                "center": {
+                  "lat": 27.101396,
+                  "lng": 2.635359
+                },
+                "continent": "africa",
+                "url_prismic": "north-africa",
+                "region": "north-africa",
+                "image": "ameba-norte-africa.png",
+                "proportion": 0.11986079022658369,
+                "name": "north-africa",
+                "zoom_desktop": 4.4,
+                "bounds": {
+                  "bound2": {
+                    "lat": 18.441274,
+                    "lng": 17.665633
+                  },
+                  "bound1": {
+                    "lat": 38.140725,
+                    "lng": -16.250383
+                  }
+                },
+                "zoom_mobile": 2.7
+              }
+            ],
+            "center": {
+              "lat": 27.101396,
+              "lng": 2.635359
+            },
+            "continent": "africa",
+            "url_prismic": "north-africa-region",
+            "image": "amebareg-norte-africa.png",
+            "proportion": 0.11986079022658369,
+            "name": "north-africa-region"
+          },
+          {
+            "image": "amebareg-centro-leste-africa.png",
+            "proportion": 0.04625741450551833,
+            "name": "central-east-africa",
+            "zoom_desktop": 4,
+            "bounds": {
+              "bound2": {
+                "lat": -14.787784,
+                "lng": 53.169861
+              },
+              "bound1": {
+                "lat": 20.798751,
+                "lng": 19.298767
+              }
+            },
+            "zoom_mobile": 2.3,
+            "name_ptbr": "Centro-Leste da África",
+            "uid": null,
+            "populations": [
+              {
+                "bounds": {
+                  "bound2": {
+                    "lat": -2.554929,
+                    "lng": 36.001626
+                  },
+                  "bound1": {
+                    "lat": 4.356813,
+                    "lng": 27.816079
+                  }
+                },
+                "zoom_mobile": 3.3,
+                "name_ptbr": "Uganda",
+                "uid": "east-bantu-uganda",
+                "group": "east-bantu-uganda",
+                "center": {
+                  "lat": 2.382792,
+                  "lng": 32.650552
+                },
+                "continent": "africa",
+                "url_prismic": "east-bantu-uganda",
+                "region": "east-bantu-uganda",
+                "image": "ameba-uganda.png",
+                "proportion": 0.01782815480326813,
+                "name": "east-bantu-uganda",
+                "zoom_desktop": 5
+              },
+              {
+                "zoom_desktop": 4,
+                "bounds": {
+                  "bound2": {
+                    "lat": -8.503241,
+                    "lng":  52.302673
+                  },
+                  "bound1": {
+                    "lat": 21.174075,
+                    "lng": 30.372985
+                  }
+                },
+                "zoom_mobile": 2.3,
+                "name_ptbr": "Cuxitas ",
+                "uid": "semitic-cushitic",
+                "group": "semitic-cushitic",
+                "center": {
+                  "lat": 6.564047,
+                  "lng": 25.802673
+                },
+                "continent": "africa",
+                "url_prismic": "semitic-cushitic",
+                "region": "semitic-cushitic",
+                "image": "ameba-cuxitas.png",
+                "proportion": 0.016162386327317552,
+                "name": "semitic-cushitic"
+              },
+              {
+                "center": {
+                  "lat": 2.932380,
+                  "lng": 30.330395
+                },
+                "continent": "africa",
+                "url_prismic": "east-bantu-kenya",
+                "region": "east-bantu-kenya",
+                "image": "ameba-kenya.png",
+                "proportion": 0.012266873374932654,
+                "name": "east-bantu-kenya",
+                "zoom_desktop": 5,
+                "bounds": {
+                  "bound2": {
+                    "lat": -5.353211,
+                    "lng": 41.931958
+                  },
+                  "bound1": {
+                    "lat": 7.112103,
+                    "lng": 32.659497
+                  }
+                },
+                "zoom_mobile": 3.3,
+                "name_ptbr": "Quênia",
+                "uid": "east-bantu-kenya",
+                "group": "east-bantu-kenya"
+              }
+            ],
+            "center": {
+              "lat": 5.208958,
+              "lng": 21.144470
+            },
+            "continent": "africa",
+            "url_prismic": "central-east-africa"
+          }
+        ],
+        "center": {
+          "lat": 6.294027,
+          "lng": 24.282325
+        },
+        "zoom_mobile": "1.3",
+        "color": "#0ac8b4"
+      },
+      {
+        "name": "america",
+        "name_ptbr": "América",
+        "zoom_desktop": "2",
+        "uid": "america",
+        "bounds": {
+          "bound2": {
+            "lat": -57.13623931917743,
+            "lng": 55.28320312500001
+          },
+          "bound1": {
+            "lng": -202.41210937500003,
+            "lat": 80.76061470752454
+          }
+        },
+        "regions": [
+          {
+            "name_ptbr": "Nativos da América do Sul",
+            "uid": null,
+            "populations": [
+              {
+                "zoom_mobile": 1.3,
+                "name_ptbr": "Nativos da América do Sul",
+                "uid": "native-american-south",
+                "group": "native-american-south",
+                "center": {
+                  "lat": -17.288888,
+                  "lng": -59.198288
+                },
+                "continent": "america",
+                "url_prismic": "native-american-south",
+                "region": "northwest-s-america",
+                "image": "ameba-nativo-america-do-sul.png",
+                "proportion": 0.06045221569821139,
+                "name": "native-american-south",
+                "zoom_desktop": 3,
+                "bounds": {
+                  "bound2": {
+                    "lat": -61.62280199858024,
+                    "lng": -32.77125310860956
+                  },
+                  "bound1": {
+                    "lng": -84.97562093839764,
+                    "lat": 23.220974512715518
+                  }
+                }
+              }
+            ],
+            "center": {
+              "lat": -17.288888,
+              "lng": -59.198288
+            },
+            "continent": "america",
+            "url_prismic": "native-american",
+            "image": "ameba-nativo-america-do-sul.png",
+            "proportion": 0.06045221569821139,
+            "name": "native-american-south",
+            "zoom_desktop": 3,
+            "bounds": {
+              "bound2": {
+                "lng": -32.77125310860956,
+                "lat": -61.62280199858024
+              },
+              "bound1": {
+                "lat": 23.220974512715518,
+                "lng": -84.97562093839764
+              }
+            },
+            "zoom_mobile": 1.3
+          },
+          {
+            "uid": null,
+            "populations": [
+              {
+                "group": "native-american-central",
+                "center": {
+                  "lat": 18.955113,
+                  "lng": -91.542038
+                },
+                "continent": "america",
+                "url_prismic": "native-american-central",
+                "region": "zapotec",
+                "image": "ameba-nativos-america-central.png",
+                "proportion": 0.01056735034759482,
+                "name": "native-american-central",
+                "zoom_desktop": 4.1,
+                "bounds": {
+                  "bound2": {
+                    "lat": 1.7575368113083254,
+                    "lng": -70.79589843750001
+                  },
+                  "bound1": {
+                    "lat": 34.88593094075317,
+                    "lng": -120.12451171875001
+                  }
+                },
+                "zoom_mobile": 2.3999999999999995,
+                "name_ptbr": "Nativos da América Central",
+                "uid": "native-american-central"
+              }
+            ],
+            "center": {
+              "lat": 18.955113,
+              "lng": -91.542038
+            },
+            "continent": "america",
+            "url_prismic": "native-american",
+            "image": "ameba-nativos-america-central.png",
+            "proportion": 0.01056735034759482,
+            "name": "native-american-central",
+            "zoom_desktop": 4.1,
+            "bounds": {
+              "bound2": {
+                "lat": 1.7575368113083254,
+                "lng": -70.79589843750001
+              },
+              "bound1": {
+                "lat": 34.88593094075317,
+                "lng": -120.12451171875001
+              }
+            },
+            "zoom_mobile": 2.3999999999999995,
+            "name_ptbr": "Nativos da América Central"
+          }
+        ],
+        "center": {
+          "lat": 37.701660,
+          "lng": -97.709863
+        },
+        "zoom_mobile": "0.28",
+        "color": "#ffd228",
+        "proportion": 0.0710195660458062
+      }
+    ]
+  }
